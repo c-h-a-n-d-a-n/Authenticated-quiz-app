@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import LoginButton from "./authentication/Loginbutton";
 import { categories} from "./services/service";
 import Submit from "./authentication/Submit";
-// import "./authentication/Authentication.css"
+
 
 function App() {
   let [quiz, setQuiz] = useState<quiz[]>([]);

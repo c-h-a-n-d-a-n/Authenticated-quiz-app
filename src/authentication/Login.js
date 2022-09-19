@@ -1,5 +1,4 @@
 import { signInWithEmailAndPassword } from 'firebase/auth';
-import { useEffect } from 'react';
 import {useState} from 'react'
 import { auth } from './Firebase';
 import './Authentication.css'

@@ -1,4 +1,3 @@
-// import React, { useEffect, useState,useRef } from 'react'
 import { createUserWithEmailAndPassword,  } from "firebase/auth"
 import { useState } from "react";
 import { auth } from "./Firebase";
